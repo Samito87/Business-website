@@ -84,6 +84,8 @@ body {
   width: 100%;
 }
 
+/***********************Slinder Images **********************************/
+
 .hero_area .slick_main .main-img-box.b1 {
   background-image: url(../images/slinder-02.jpg);
 }
@@ -95,6 +97,11 @@ body {
 .hero_area .slick_main .main-img-box.b3 {
   background-image: url(../images/slinder-01.jpg);
 }
+
+.hero_area .slick_main .main-img-box.b3 {
+  background-image: url(../images/home.1.jpeg);
+}
+/***********************Slinder Images end here**********************************/
 
 .sub_page .hero_area {
   height: auto;
